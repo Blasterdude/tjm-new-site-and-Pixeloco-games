@@ -1,4 +1,4 @@
-# tjm-new-site
+# tjm-new-site-and-Pixeloco-games
 
 Repo for the newer version of my site, tmeehan.com
 
